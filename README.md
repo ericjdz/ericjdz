@@ -78,10 +78,10 @@
 
 <div align="center">
 
-| [workspace-maxxing](https://github.com/ericjdz/workspace-maxxing) | [nobibot](https://github.com/ericjdz/nobibot) |
-|:---:|:---:|
-| 🚀 Automate your workspace with one command | 🤖 Discord automation bot |
-| TypeScript | Python |
+| [KokoroBookReader](https://github.com/ericjdz/KokoroBookReader) | [workspace-maxxing](https://github.com/ericjdz/workspace-maxxing) | [nobibot](https://github.com/ericjdz/nobibot) |
+|:---:|:---:|:---:|
+| 📖 Local-first audiobook for PDF/EPUB/DOCX with Kokoro TTS | 🚀 Automate your workspace with one command | 🤖 Discord automation bot |
+| Python | TypeScript | Python |
 
 </div>
 
