@@ -84,13 +84,6 @@ Recent **Computer Science graduate** building AI-powered tools and developer aut
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ericjdz&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
-    <img src="https://streak-stats.demolab.com?user=ericjdz&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0969DA&fire=FD8E46&currStreakNum=1F2328&currStreakLabel=0969DA&sideNums=1F2328&sideLabels=57606A&dates=57606A" alt="Streak Stats" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ericjdz&hide_border=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=C9D1D9&area_color=1F6FEB&area=true&area_opacity=0.2" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericjdz&hide_border=true&bg_color=FFFFFF&color=1F2328&line=0969DA&point=1F2328&area_color=54AEFF&area=true&area_opacity=0.2" alt="Activity Graph" />
   </picture>
