@@ -31,43 +31,32 @@ Recent **Computer Science graduate** building AI-powered tools and developer aut
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/ericjdz/workspace-maxxing">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ericjdz&repo=workspace-maxxing&hide_border=true&theme=github_dark" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericjdz&repo=workspace-maxxing&hide_border=true" alt="workspace-maxxing" />
-        </picture>
-      </a>
-      <br/><sub>📦 Published on npm — <code>npx workspace-maxxing init</code></sub>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ericjdz/workspace-maxxing"><b>📦 workspace-maxxing</b></a><br/>
+      <sub>Automate almost anything with <code>npx workspace-maxxing init</code></sub><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/github/stars/ericjdz/workspace-maxxing?style=flat-square&color=0969da&labelColor=21262D&logo=github" alt="Stars" />
+      <img src="https://img.shields.io/badge/license-MIT-21262D?style=flat-square" alt="MIT License" />
     </td>
-    <td align="center">
-      <a href="https://github.com/ericjdz/arkive">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ericjdz&repo=arkive&hide_border=true&theme=github_dark" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericjdz&repo=arkive&hide_border=true" alt="arkive" />
-        </picture>
-      </a>
-      <br/><sub>🗂️ TypeScript</sub>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ericjdz/arkive"><b>🗂️ arkive</b></a><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/github/stars/ericjdz/arkive?style=flat-square&color=0969da&labelColor=21262D&logo=github" alt="Stars" />
+      <img src="https://img.shields.io/badge/license-MIT-21262D?style=flat-square" alt="MIT License" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/ericjdz/KokoroBookReader">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ericjdz&repo=KokoroBookReader&hide_border=true&theme=github_dark" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericjdz&repo=KokoroBookReader&hide_border=true" alt="KokoroBookReader" />
-        </picture>
-      </a>
-      <br/><sub>📖 Local-first audiobooks with Kokoro TTS</sub>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ericjdz/KokoroBookReader"><b>📖 KokoroBookReader</b></a><br/>
+      <sub>Local-first audiobooks for PDF/EPUB/DOCX with Kokoro TTS</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/github/stars/ericjdz/KokoroBookReader?style=flat-square&color=0969da&labelColor=21262D&logo=github" alt="Stars" />
     </td>
-    <td align="center">
-      <a href="https://github.com/ericjdz/nobibot">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ericjdz&repo=nobibot&hide_border=true&theme=github_dark" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ericjdz&repo=nobibot&hide_border=true" alt="nobibot" />
-        </picture>
-      </a>
-      <br/><sub>🤖 Discord automation bot</sub>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ericjdz/nobibot"><b>🤖 nobibot</b></a><br/>
+      <sub>Discord automation bot</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/github/stars/ericjdz/nobibot?style=flat-square&color=0969da&labelColor=21262D&logo=github" alt="Stars" />
     </td>
   </tr>
 </table>
@@ -78,16 +67,16 @@ Recent **Computer Science graduate** building AI-powered tools and developer aut
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ericjdz&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" />
-        <img src="https://github-readme-stats.vercel.app/api?username=ericjdz&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericjdz&theme=github-dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericjdz&theme=default" alt="Profile Details" />
       </picture>
     </td>
-    <td>
+    <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ericjdz&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericjdz&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericjdz&theme=github-dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericjdz&theme=default" alt="Repos per Language" />
       </picture>
     </td>
   </tr>
